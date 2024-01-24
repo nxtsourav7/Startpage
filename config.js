@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'nxtsourav7',
-	imageBackground: true,
+	imageBackground: false,
 	openInNewTab: false,
 	twelveHourFormat: true,
 
@@ -53,21 +53,21 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
-		},
-		{
-			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/',
-		},
-		{
-			id: '3',
 			name: 'YouTube',
 			icon: 'youtube',
 			link: 'https://www.youtube.com/',
+		},
+		{
+			id: '2',
+			name: 'Chat-GPT',
+			icon: 'brain-circuit',
+			link: 'https://chat.openai.com/',
+		},
+		{
+			id: '3',
+			name: 'WhatsApp',
+			icon: 'message-circle-code',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '4',
@@ -77,15 +77,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'WhatsApp',
-			icon: 'message-circle-code',
-			link: 'https://web.whatsapp.com/',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Mail',
+			icon: 'mail',
+			link: 'https://mail.google.com/',
 		},
 	],
 
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'binary',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Codeforces',
+					link: 'https://codeforces.com/profile/nxtsourav7',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Leetcode',
+					link: 'https://leetcode.com/nxtsourav7/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Calendar',
+					link: 'https://clist.by/?view=calendar',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Codechef',
+					link: 'https://www.codechef.com/users/nxtsourav7',
 				},
 			],
 		},
