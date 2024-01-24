@@ -71,15 +71,15 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Classroom',
+			icon: 'glasses',
+			link: 'https://classroom.google.com/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'WhatsApp',
+			icon: 'message-circle-code',
+			link: 'https://web.whatsapp.com/',
 		},
 		{
 			id: '6',
