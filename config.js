@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Chat-GPT',
 			icon: 'brain-circuit',
-			link: 'https://chat.openai.com/',
+			link: 'https://gemini.google.com/app',
 		},
 		{
 			id: '3',
