@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'nxtsourav7',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: false,
 	twelveHourFormat: true,
 
