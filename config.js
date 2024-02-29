@@ -165,8 +165,8 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'CP-Algorithm',
+					link: 'https://cp-algorithms.com/index.html',
 				},
 				{
 					name: 'Trello',
