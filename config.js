@@ -173,8 +173,8 @@ const CONFIG = {
 					link: 'https://open.spotify.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'FTP Server',
+					link: 'http://www.speed4you.net/',
 				},
 			],
 		},
