@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Chat-GPT',
 			icon: 'brain-circuit',
-			link: 'https://gemini.google.com/app',
+			link: 'https://chatgpt.com',
 		},
 		{
 			id: '3',
@@ -169,8 +169,8 @@ const CONFIG = {
 					link: 'https://cp-algorithms.com/index.html',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Spotify',
+					link: 'https://open.spotify.com/',
 				},
 				{
 					name: 'Slack',
