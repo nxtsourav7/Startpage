@@ -40,8 +40,8 @@
   --cards: #1d2021; /* Cards color */
 
   /* Fonts Color */
-  --fg: #fbf1c7; /* Foreground color */
-  --sfg: #3c3836; /* Secondary Foreground color */
+  --fg: #FFFFFF; /* Foreground color */
+  --sfg: #FFFFFF; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
