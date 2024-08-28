@@ -17,7 +17,7 @@
   --icon: 3vh; /* Icon Size */
 
     /* Fonts Color */
-  --fg: #3a3a3a; /* Foreground color */
+  --fg: #FFFFFF; /* Foreground color */
   --sfg: #3c3836; /* Sceondary Foreground color */
 
   /* Light Colors  */
@@ -35,8 +35,8 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #d79921; /* Hover color */
-  --background: #282828; /* Background color */
+  --accent: #dc322f; /* Hover color */
+  --background: #2d303b; /* Background color */
   --cards: #1d2021; /* Cards color */
 
   /* Fonts Color */
