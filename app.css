@@ -16,9 +16,9 @@
   --fg-list: 2vh; /* Links List */
   --icon: 3vh; /* Icon Size */
 
-    /* Fonts Color */
-  --fg: #FFFFFF; /* Foreground color */
-  --sfg: #FFFFFF; /* Sceondary Foreground color */
+  /* Fonts Color */
+  --fg: #3a3a3a; /* Foreground color */
+  --sfg: #3c3836; /* Sceondary Foreground color */
 
   /* Light Colors  */
   --accent: #d79921; /* Hover color */
@@ -35,13 +35,13 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #dc322f; /* Hover color */
-  --background: #2d303b; /* Background color */
+  --accent: #d79921; /* Hover color */
+  --background: #282828; /* Background color */
   --cards: #1d2021; /* Cards color */
 
   /* Fonts Color */
-  --fg: #FFFFFF; /* Foreground color */
-  --sfg: #FFFFFF; /* Secondary Foreground color */
+  --fg: #fbf1c7; /* Foreground color */
+  --sfg: #3c3836; /* Secondary Foreground color */
 
   /* Image background  */
   --imgcol: linear-gradient(
