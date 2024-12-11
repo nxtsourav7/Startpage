@@ -161,42 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'CSES',
+					link: 'https://cses.fi/problemset/',
+				},
+								{
+					name: 'USACO',
+					link: 'https://usaco.guide/dashboard',
 				},
 				{
 					name: 'CP-Algorithm',
 					link: 'https://cp-algorithms.com/index.html',
 				},
 				{
-					name: 'Spotify',
-					link: 'https://open.spotify.com/',
-				},
-				{
-					name: 'FTP Server',
-					link: 'http://www.speed4you.net/',
-				},
-			],
-		},
-		{
-			icon: 'github',
-			id: '2',
-			links: [
-				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
-				},
-				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
-				},
-				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
-				},
-				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'YouKnowWho Academy',
+					link: 'https://youkn0wwho.academy/topic-list',
 				},
 			],
 		},
